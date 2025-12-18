@@ -79,10 +79,22 @@ https://portfolio-frontend-rho-flax.vercel.app
 ---
 
 ## ✍️ Blog
-I write technical blogs on React Native & development:
 
-👉 https://react-native-stuff.hashnode.dev
 
+- 🔗 **React-native-learing**  
+ https://react-native-stuff.hashnode.dev
+
+- 🔗 **Python & Streamlit Tutorials**  
+  https://python-streamlit.hashnode.dev/
+
+- 🔗 **GAN AI & Creative AI Experiments**  
+  https://ganai.hashnode.dev/
+
+- 🔗 **General Tech Articles by Me**  
+  https://shindeanand358.hashnode.dev/
+
+📚 Explore all my writing:  
+👉 https://hashnode.com/@anandshinde358
 ---
 
 ## 🎯 Career Goal
