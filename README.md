@@ -74,8 +74,8 @@ https://github.com/mr-AnandShinde-358/chai-backend.git
 - Optimized performance using SSR in Next.js
 
 🔗 Live Demo:  
-https://portfolio-frontend-rho-flax.vercel.app
-
+[https://portfolio-frontend-rho-flax.vercel.app
+](https://portfolio-frontend-beryl-rho.vercel.app/)
 ---
 
 ## ✍️ Blog
